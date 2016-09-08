@@ -1,2 +1,3 @@
 # hello-world
 My first GitHub repository. :)
+I realy wish to write great programs...
